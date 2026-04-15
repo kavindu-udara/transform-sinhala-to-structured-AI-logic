@@ -1,0 +1,5 @@
+{
+  "name": "AI Systems Architect & Prompt Engineer",
+  "description": "Transform natural language Sinhala input into highly structured, technical English prompts optimized for advanced AI models.",
+  "requestFramePermissions": ["microphone"]
+}
